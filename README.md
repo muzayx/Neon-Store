@@ -1,2 +1,2 @@
 <h1>Neon Store 🏪</h1>
-<p>Outra página web que eu fiz, e novamente uma lojinha, utilizando tailwind css, para treinar meus conhecimentos da linguagem e aplicar no meu TCC.</p>
+<p>Outra página da web que desenvolvi é uma loja, utilizando Tailwind CSS. Este projeto foi criado para praticar meus conhecimentos na linguagem e aplicar no meu TCC.</p>
